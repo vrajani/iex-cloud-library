@@ -1,8 +1,8 @@
-package pl.vrajani.request;
+package pl.vrajani.iex.request;
 
 import org.apache.commons.lang3.StringUtils;
-import pl.vrajani.model.StockQuote;
-import pl.vrajani.model.Version;
+import pl.vrajani.iex.model.StockQuote;
+import pl.vrajani.iex.model.Version;
 
 public class APIService {
     private String token;

@@ -1,8 +1,8 @@
-package pl.vrajani.request;
+package pl.vrajani.iex.request;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
-import pl.vrajani.model.Version;
+import pl.vrajani.iex.model.Version;
 
 public abstract class Request<T> {
     private static final String BASE_URL = "https://cloud.iexapis.com";

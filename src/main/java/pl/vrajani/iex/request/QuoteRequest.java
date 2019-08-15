@@ -1,9 +1,9 @@
-package pl.vrajani.request;
+package pl.vrajani.iex.request;
 
 import org.springframework.http.ResponseEntity;
-import pl.vrajani.model.StockQuote;
-import pl.vrajani.model.Version;
-import pl.vrajani.utility.URLFormatter;
+import pl.vrajani.iex.model.StockQuote;
+import pl.vrajani.iex.model.Version;
+import pl.vrajani.iex.utility.URLFormatter;
 
 public class QuoteRequest extends Request<StockQuote> {
     private String symbol;

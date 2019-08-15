@@ -1,4 +1,4 @@
-package pl.vrajani.utility;
+package pl.vrajani.iex.utility;
 
 import org.apache.commons.lang3.StringUtils;
 

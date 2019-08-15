@@ -1,7 +1,6 @@
-import pl.vrajani.model.StockQuote;
-import pl.vrajani.model.Version;
-import pl.vrajani.request.APIService;
-import pl.vrajani.request.QuoteRequest;
+import pl.vrajani.iex.model.StockQuote;
+import pl.vrajani.iex.model.Version;
+import pl.vrajani.iex.request.APIService;
 
 public class Test {
 

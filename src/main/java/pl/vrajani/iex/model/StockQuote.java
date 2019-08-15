@@ -1,4 +1,4 @@
-package pl.vrajani.model;
+package pl.vrajani.iex.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

@@ -1,4 +1,4 @@
-package pl.vrajani.model;
+package pl.vrajani.iex.model;
 
 public enum Version {
     STABLE("stable"),

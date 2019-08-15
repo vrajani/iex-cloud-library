@@ -1,4 +1,4 @@
-package pl.vrajani.utility;
+package pl.vrajani.iex.utility;
 
 public class URLFormatter {
     public static String injectSymbol(String url, String symbol){
